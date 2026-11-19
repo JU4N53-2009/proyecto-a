@@ -1,0 +1,2 @@
+#script basico en python
+
