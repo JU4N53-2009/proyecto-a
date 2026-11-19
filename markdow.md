@@ -15,3 +15,26 @@ este es otro ejemplo de *testo en cursiva*
 este es un ejemplo de **texto en negrillas**
 este es un ejemplo de _texto en negrillas_
 este es un _**ejemplo de combinacion**_
+
+# ejemplo de litas con viñeta: listas de colores
+
+*amarillo
+*azul
+*rojo
+*verde
+
+# ejemplo de una lista numerada: pilotos de f1
+1 kimi antonelli
+2 max verstapen
+3 fernando alonso
+4 charls leclerc
+# ejemlo de una lista covarios niveles: planetas y sus lunas
+*tierra
+ *luna
+*jupiter
+ *calisto
+ *ganimedes
+ *europa
+ *io
+*saturno
+ *titan
