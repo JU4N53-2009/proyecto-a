@@ -40,7 +40,7 @@ este es un _**ejemplo de combinacion**_
  *titan
 
 # ejemplo de una checkilist: obtener el pasaporte
--[x] sacar las cita
--[x] pagar los derechos
--[x] asistir a la cita y la foto
--[ ] esperar a que salga el pasaporte
+- [x] sacar las cita
+- [x] pagar los derechos
+- [x] asistir a la cita y la foto
+- [ ] esperar a que salga el pasaporte
