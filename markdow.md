@@ -68,3 +68,6 @@ a|b|a xor b
 1|0|1
 0|1|1
 0|0|0
+
+# emojis
+:+1 :octocat:grin :metal :camel:
