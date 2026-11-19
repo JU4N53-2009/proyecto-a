@@ -60,3 +60,11 @@ print(" este es un
 codigo powershell
 ```powershell
 remove-item  recurse hola.txt
+```
+# ejemplo de tabla: tablas de verdad del xor
+a|b|a xor b
+-|-|--------
+1|1|0
+1|0|1
+0|1|1
+0|0|0
