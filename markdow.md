@@ -44,3 +44,9 @@ este es un _**ejemplo de combinacion**_
 - [x] pagar los derechos
 - [x] asistir a la cita y la foto
 - [ ] esperar a que salga el pasaporte
+
+# ejemplo de citaciones
+mis estudiantes dijeron
+>profe ya compro GTA VI?
+>por que no?
+>si es un juego buenisimo!!
